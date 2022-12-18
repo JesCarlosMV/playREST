@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "nombre": "lineage II",
+        "descripcion": "mmo open world",
+        "edad": "10",
+        "numeroDeJugadores": "70",
+        "tipo": "mmo",
+        "precio": "FREE"
+    },
+    {
+        "id": "3",
+        "nombre": "world of warcraft",
+        "descripcion": "paladin will win",
+        "edad": "18",
+        "numeroDeJugadores": "10",
+        "tipo": "mmo",
+        "precio": "60,60"
+    },
+    {
+        "id": "4",
+        "nombre": "street fighter",
+        "descripcion": "golpes y piñas y mas piñas",
+        "edad": "100",
+        "numeroDeJugadores": "10",
+        "tipo": "lucha",
+        "precio": "60,60"
+    },
+    {
+        "id": "5",
+        "nombre": "simulator avvvv",
+        "descripcion": "planes aviation nice ",
+        "edad": "35",
+        "numeroDeJugadores": "33",
+        "tipo": "planes",
+        "precio": "FREE"
+    },
+    {
+        "nombre": "el averrrno",
+        "descripcion": "planes aviation nice ",
+        "edad": "50",
+        "numeroDeJugadores": "33",
+        "tipo": "planes",
+        "precio": "FREE",
+        "id": "10"
+    },
+    {
+        "id": "50",
+        "nombre": "simulator avvvv",
+        "descripcion": "planes aviation nice ",
+        "edad": "35",
+        "numeroDeJugadores": "33",
+        "tipo": "planes",
+        "precio": "FREE"
+    }
+]

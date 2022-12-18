@@ -1,0 +1,17 @@
+{
+    "nombre": "playrest",
+    "version": "1.0.0",
+    "descripcion": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "morgan": "^1.10.0",
+        "router": "^1.3.7"
+    },
+    "type": "module"
+}
